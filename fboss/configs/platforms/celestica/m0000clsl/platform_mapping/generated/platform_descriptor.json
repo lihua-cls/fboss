@@ -1,0 +1,11 @@
+{
+  "platformType": 61,
+  "productNamePrefixes": [
+    "M0000CLSL"
+  ],
+  "modeNames": [
+    "m0000clsl"
+  ],
+  "asicType": 1,
+  "numSwitchAsics": 7
+}
